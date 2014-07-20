@@ -8,20 +8,20 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "cv-metallist.github.io", "h
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_37310"
-		Debug.AspNetCompiler.PhysicalPath = "D:\Разработка\GitHub\cv-metallist.github.io\"
+		Debug.AspNetCompiler.PhysicalPath = "..\cv-metallist.github.io\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_37310\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_37310"
-		Release.AspNetCompiler.PhysicalPath = "D:\Разработка\GitHub\cv-metallist.github.io\"
+		Release.AspNetCompiler.PhysicalPath = "..\cv-metallist.github.io\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_37310\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "D:\Разработка\GitHub\cv-metallist.github.io\"
+		SlnRelativePath = "..\cv-metallist.github.io\"
 	EndProjectSection
 EndProject
 Global
