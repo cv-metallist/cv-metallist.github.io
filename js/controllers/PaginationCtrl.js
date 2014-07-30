@@ -2,7 +2,7 @@
 (function() {
   angular.module('controllers', ['ui.bootstrap']).controller('PaginationCtrl', function($scope) {
     $scope.totalItems = 22;
-    $scope.currentPage = 12;
+    $scope.currentPage = 13;
     $scope.itemsPerPage = 1;
     $scope.setPage = function(pageNo) {
       $scope.currentPage = pageNo;
