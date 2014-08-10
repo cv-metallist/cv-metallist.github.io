@@ -1,7 +1,7 @@
 ﻿angular.module('controllers', ['ui.bootstrap'])
 .controller('PaginationCtrl', ($scope) ->
 	$scope.totalItems = 22
-	$scope.currentPage = 13
+	$scope.currentPage = 14
 	$scope.itemsPerPage = 1
 
 	$scope.setPage = (pageNo) ->
